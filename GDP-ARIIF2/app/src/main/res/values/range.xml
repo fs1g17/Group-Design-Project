@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="hi_min">0</integer>
+    <integer name="hi_max">10</integer>
+    <integer name="lo_min">0</integer>
+    <integer name="lo_max">10</integer>
+    <integer name="hy_min">0</integer>
+    <integer name="hy_max">10</integer>
+
+</resources>

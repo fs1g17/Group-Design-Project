@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="connection_hint">Tap a PSD NFC Tag</string>
+    <string-array name="display_resolution">
+        <item>Select one</item>
+        <item>2 dp</item>
+        <item>3 dp</item>
+    </string-array>
+    <string-array name="refresh_rate">
+        <item>Select one</item>
+        <item>200 ms</item>
+        <item>500 ms</item>
+        <item>1000 ms</item>
+    </string-array>
+    <string-array name="analogue_output">
+        <item>Select one</item>
+        <item>1-5V</item>
+        <item>0-10V</item>
+    </string-array>
+    <string-array name="response_time">
+        <item>Select one</item>
+        <item>2 ms</item>
+        <item>20 ms</item>
+        <item>50 ms</item>
+        <item>100 ms</item>
+        <item>200 ms</item>
+        <item>500 ms</item>
+    </string-array>
+    <string-array name="pressure_settings">
+        <item>Select one</item>
+        <item>MPa</item>
+        <item>KPa</item>
+        <item>Kgf_cm2</item>
+        <item>Bar</item>
+        <item>PSI</item>
+        <item>mm_Hg</item>
+        <item>cm_Hg</item>
+        <item>inch_Hg</item>
+    </string-array>
+    <string-array name="led_settings">
+        <item>Select one</item>
+        <item>Green On, Red Off</item>
+        <item>Red On, Green Off</item>
+        <item>Normally Red</item>
+        <item>Normally Green</item>
+    </string-array>
+</resources>
