@@ -4,12 +4,12 @@ For my MEng Computer Science group design project, I was allocated to a group of
 ## Design 
 Going through 4 design iterations with the customer directly, I arrived at a design that the customer was pleased with. Below are screenshots of the final design of the implemented application. 
 
-<img src="/images/screenshots/connect_to_001.png" width=33%> <img src="/images/screenshots/home_1.png" width=33%> <img src="/images/screenshots/settings_2.png" width=33%>
+<img src="/images/screenshots/connect_to_001.png" width=32.3%> <img src="/images/screenshots/home_1.png" width=32.3%> <img src="/images/screenshots/settings_2.png" width=32.3%>
 
 ### Experimental Features
 I implemented some experemental features, like this live pressure reading from the sensors. Below are some screenshots of live readings!
 
-<img src="/images/screenshots/graph_ch1.png" width=33%> <img src="/images/screenshots/graph_ch2.png" width=33%> <img src="/images/screenshots/graph_ch3.png" width=33%> 
+<img src="/images/screenshots/graph_ch1.png" width=32.3%> <img src="/images/screenshots/graph_ch2.png" width=32.3%> <img src="/images/screenshots/graph_ch3.png" width=32.3%> 
 
 ## Demo 
 Here are some gifs of the application in action!
